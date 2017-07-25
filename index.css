@@ -37,26 +37,26 @@
  float: right;
  padding: 1em;
  line-height: 1.7em;
-}
-
-.mb .icons i {
  color: black;
  font-size: 1.2em;
 }
 
-.mb .icons i:hover {
+.mb .icons:hover {
  color: white;
  background-color: black;
  opacity: .7;
 }
 
 .mb .menu:hover {
+ color: white
  background-color: black;
  opacity: .7;
 }
 
-.mb .menu .box:hover {
- color: white;
+.mb .chinese:hover {
+ color: white
+ background-color: black;
+ opacity: .7;
 }
 
 
