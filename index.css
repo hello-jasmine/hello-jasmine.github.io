@@ -5,12 +5,18 @@
  
 .FB {
 float: right;
+margin: 5px;
+
 }
 
-.FB i:hover {
+.fa fa-facebook {
+ font-size: 1em;
+ font-color: black;
+}
+
+.fa fa-facebook:hover {
 font-color: white;
 background color: black;
-float: right;
 }
 
 .yelp {
