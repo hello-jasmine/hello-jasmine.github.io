@@ -72,9 +72,11 @@ padding: .5em;
 margin-top: 10px;
 }
 
-.chinese-menu: hover{
+.chinese-menu:hover {
  color: white;
+ text-decoration: none;
 }
+
 #chinese:hover {
  background-color: black;
 }
