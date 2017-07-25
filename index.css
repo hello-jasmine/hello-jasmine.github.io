@@ -12,7 +12,12 @@
 
 .icons a i {
  color: black;
- font-size: 1em;
+ font-size: 1.5em;
+}
+
+.icons a i: hover {
+ color: white;
+ background-color: black;
 }
 
 #menu {
