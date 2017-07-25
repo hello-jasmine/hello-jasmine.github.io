@@ -61,9 +61,9 @@ padding: .5em;
 margin: 0;
 }
 
-li a:hover {
-background-color: black;
- font-color: white;
+ul li:hover {
+background: black;
+ color: white;
 }
 
 #chicken {
