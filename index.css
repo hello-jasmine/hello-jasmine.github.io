@@ -15,13 +15,14 @@
  padding: .5em;
  line-height: 1.7em;
  text-decoration: none;
-}
-
-.mb .menu .box {
  color: black;
  text-align: center;
  font: 1.2em Alcubierre;
  text-decoration: none;
+}
+
+.mb .menu .box {
+ 
 }
 
 .mb .chinese {
