@@ -42,7 +42,7 @@ background-color: white;
 }
 
 a.menu {
-margin: .5em;
+margin: 0;
 float: left;
 padding: .5em;
 line-height: 1.7em;
