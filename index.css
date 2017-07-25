@@ -36,10 +36,10 @@ list-style-type: none;
 text-align: center;
 margin: 0;
 background-color: white;
- text-decoration: none;
+
 }
 
-a.menu {
+.menu {
 margin: 0;
 float: left;
 padding: .5em;
@@ -61,20 +61,20 @@ color: white;
 
 .chinese-menu {
 font: 1.2em Hanzipen TC;
-text-decoration: none;
 font-color: black;
+text-decoration: none;
 }
 
 #chinese {
 float: right;
 line-height: 1.7em;
 padding: .5em;
-margin-bottom: .5em;
+margin: 0;
 }
 
 .chinese-menu:hover {
  font-color: white;
- text-decoration: none;
+ 
 }
 
 #chinese:hover {
