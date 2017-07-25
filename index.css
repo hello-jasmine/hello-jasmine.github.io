@@ -62,7 +62,8 @@ margin: 0;
 }
 
 li a:hover {
-background-color: #f2f7f2;
+background-color: black;
+ font-color: white;
 }
 
 #chicken {
