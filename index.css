@@ -13,11 +13,13 @@
 .icons a i {
  color: black;
  font-size: 1.5em;
+ transition: all 0.2s ease-in-out;
 }
 
 .icons a i: hover {
  color: white;
- background-color: black;
+ background: black;
+ 
 }
 
 #menu {
