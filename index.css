@@ -12,17 +12,20 @@
 .mb .menu {
  float: left;
  display: block;
- color: black;
- text-align: center;
- font: 1.2em Alcubierre;
  padding: .5em;
- text-decoration: none;
  line-height: 1.7em;
 }
 
 .mb .menu #chinese {
  font: 1.2em Hanzipen TC;
  float: right; 
+}
+
+.mb .menu .box {
+ color: black;
+ text-align: center;
+ font: 1.2em Alcubierre;
+ text-decoration: none;
 }
 
 .mb .icons i {
