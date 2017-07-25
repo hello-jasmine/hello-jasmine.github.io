@@ -23,9 +23,15 @@
  text-decoration: none;
 }
 
-.mb .menu .zw {
- font: 1.2em Hanzipen TC;
+.mb .chinese {
  float: right;
+ display: block;
+ padding: .5em;
+ line-height: 1.7em;
+}
+
+.mb .chinese .zw {
+ font: 1.2em Hanzipen TC;
  text-align: center;
  text-decoration: none;
 }
