@@ -15,7 +15,7 @@
  padding: .5em;
  line-height: 1.7em;
  text-decoration: none;
- color: black;
+ font-color: black;
  text-align: center;
  font: 1.2em Alcubierre;
  text-decoration: none;
@@ -25,7 +25,8 @@
 .mb .chinese {
  float: right;
  display: block;
- padding: .5em;
+ padding: 1em;
+ margin-top: 10px;
  line-height: 1.7em;
  font: 1.2em Hanzipen TC;
  font-color: black;
