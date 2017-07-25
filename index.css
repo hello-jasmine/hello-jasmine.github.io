@@ -28,7 +28,6 @@
  float: right;
  display: block;
  padding: .5em;
- margin-bottom: .2em;
  line-height: 1.7em;
  text-decoration: none;
 }
@@ -37,6 +36,7 @@
  font: 1.2em Hanzipen TC;
  text-align: center;
  text-decoration: none;
+ margin-bottom: 1em;
 }
 
 .mb .icons {
