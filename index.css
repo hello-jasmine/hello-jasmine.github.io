@@ -5,9 +5,11 @@
  
 .icons {
  float: right;
- font: 1.2em black;
+ font: 1.2em;
+ font-color: #000000;
  line-height: 1.7em;
-padding: .5em;
+ margin-top: 1em;
+ padding: .5em;
 }
 
 
