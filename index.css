@@ -3,9 +3,10 @@
  src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
  }
  
-i {
+.icons {
  float: right;
  margin: 5px;
+ padding: 5px;
 }
 
 
