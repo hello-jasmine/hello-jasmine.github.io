@@ -15,9 +15,11 @@
  
 }
 
+a:hover {
+ background-color: black;
+}
 i:hover {
  color: white;
- background: black;
 }
 
 
