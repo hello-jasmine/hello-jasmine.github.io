@@ -14,6 +14,7 @@
  display: block;
  padding: .5em;
  line-height: 1.7em;
+ text-decoration: none;
 }
 
 .mb .menu .box {
@@ -29,6 +30,7 @@
  padding: .5em;
  margin-bottom: .2em;
  line-height: 1.7em;
+ text-decoration: none;
 }
 
 .mb .chinese .zw {
