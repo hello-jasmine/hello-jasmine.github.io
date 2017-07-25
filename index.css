@@ -69,7 +69,14 @@ color: black;
 float: right;
 line-height: 1.7em;
 padding: .5em;
-margin: 0;
+margin-top: 10px;
+}
+
+.chinese-menu: hover{
+ color: white;
+}
+#chinese:hover {
+ background-color: black;
 }
 
 
