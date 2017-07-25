@@ -45,11 +45,21 @@ a.menu {
 margin: 0;
 float: left;
 padding: .5em;
-color: black;
-text-decoration: none;
-font: 1.2em Alcubierre, Arial, Sans Serif;
 line-height: 1.7em;
 
+}
+
+.menu-items {
+ color: black;
+ font: 1.2em Alcubierre, Arial, Sans Serif;
+ text-decoration: none;
+}
+.menu-items:hover {
+color: white;
+}
+
+.menu:hover {
+ background-color: black;
 }
 
 #chinese {
@@ -62,10 +72,7 @@ padding: .5em;
 margin: 0;
 }
 
-.menu-items:hover {
-color: white;
-background: black;
-}
+
 
 #chicken {
 width:100%;
