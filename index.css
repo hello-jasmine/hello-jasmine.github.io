@@ -4,22 +4,20 @@
  }
  
 
- a i {
+ .icons i {
  color: black;
- background: white;
  font-size: 1.2em;
  float: right;
  line-height: 1.7em;
  margin-top: .5em;
  padding: .5em;
- 
 }
 
-.icons {
- background-color: black;
-}
 .icons i:hover {
  color: white;
+}
+.icons:hover {
+ background: black;
 }
 
 
