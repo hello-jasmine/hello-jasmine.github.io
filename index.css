@@ -63,8 +63,8 @@ margin: 0;
 }
 
 .menu-items:hover {
-font-color: white;
- background: black;
+color: white;
+background: black;
 }
 
 #chicken {
