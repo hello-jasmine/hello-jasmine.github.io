@@ -63,6 +63,9 @@ color: white;
 font: 1.2em Hanzipen TC;
 text-decoration: none;
 color: black;
+}
+
+#chinese {
 float: right;
 line-height: 1.7em;
 padding: .5em;
