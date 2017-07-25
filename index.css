@@ -14,15 +14,15 @@
  display: block;
  padding: .5em;
  line-height: 1.7em;
- 
-}
-
-.mb .menu .box {
  color: black;
  text-align: center;
  font: 1.2em Alcubierre;
  text-decoration: none;
- background-color: white;
+ 
+}
+
+.mb .menu .box {
+ 
 }
 
 .mb .chinese {
