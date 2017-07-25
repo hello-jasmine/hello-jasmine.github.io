@@ -16,15 +16,17 @@
  line-height: 1.7em;
 }
 
-.mb .menu #chinese {
- font: 1.2em Hanzipen TC;
- float: right; 
-}
-
 .mb .menu .box {
  color: black;
  text-align: center;
  font: 1.2em Alcubierre;
+ text-decoration: none;
+}
+
+.mb .menu #chinese .zw {
+ font: 1.2em Hanzipen TC;
+ float: right;
+ text-align: center;
  text-decoration: none;
 }
 
