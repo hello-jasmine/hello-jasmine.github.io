@@ -41,12 +41,11 @@ margin: 0;
 background-color: white;
 }
 
-a.menu {
-margin: 0;
+.menu {
+margin: 1em;
 float: left;
 padding: .5em;
 line-height: 1.7em;
-
 }
 
 .menu-items {
