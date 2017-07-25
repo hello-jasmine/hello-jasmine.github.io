@@ -28,6 +28,7 @@
  padding: .5em;
  line-height: 1.7em;
  font: 1.2em Hanzipen TC;
+ color: black;
  text-align: center;
  text-decoration: none;
  margin-bottom: 1em;
@@ -51,13 +52,13 @@
 }
 
 .mb .menu:hover {
- color: white;
+ font-color: white;
  background-color: black;
  opacity: .7;
 }
 
 .mb .chinese:hover {
- color: white;
+ font-color: white;
  background-color: black;
  opacity: .7;
 }
