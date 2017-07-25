@@ -62,19 +62,18 @@ color: white;
 .chinese-menu {
 font: 1.2em Hanzipen TC;
 text-decoration: none;
-color: black;
+font-color: black;
 }
 
 #chinese {
 float: right;
 line-height: 1.7em;
 padding: .5em;
-margin-top: 10px;
+margin: 0;
 }
 
 .chinese-menu:hover {
- color: white;
- text-decoration: none;
+ font-color: white;
 }
 
 #chinese:hover {
