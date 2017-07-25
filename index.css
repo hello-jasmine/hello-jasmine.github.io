@@ -36,23 +36,32 @@
  text-decoration: none;
 }
 
-.mb .icons i {
- color: black;
- font-size: 1.2em;
+.mb .icons {
+ display: block;
  float: right;
  margin-top: .5em;
  padding: .5em;
  line-height: 1.7em;
 }
 
+.mb .icons i {
+ color: black;
+ font-size: 1.2em;
+}
+
 .mb .icons i:hover {
  color: white;
  background-color: black;
+ opacity: .7;
 }
 
 .mb .menu:hover {
-color: white;
  background-color: black;
+ opacity: .7;
+}
+
+.mb .menu .box:hover {
+ color: white;
 }
 
 
