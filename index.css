@@ -41,8 +41,8 @@ margin: 0;
 background-color: white;
 }
 
-.menu {
-margin: 1em;
+a.menu {
+margin: .5em;
 float: left;
 padding: .5em;
 line-height: 1.7em;
