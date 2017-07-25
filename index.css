@@ -5,7 +5,7 @@
  
 
 
-a i {
+.menu-bar a i {
  color: black;
  background: white;
  font-size: 1.5em;
@@ -16,7 +16,7 @@ a i {
  
 }
 
-a i: hover {
+.menu-bar a i: hover {
  color: white;
  background: black;
  font-size: 1.5em;
