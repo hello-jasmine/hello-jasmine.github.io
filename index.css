@@ -3,41 +3,11 @@
  src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
  }
  
-.FB {
-float: right;
-margin: 5px;
-
+i {
+ float: right;
+ margin: 5px;
 }
 
-.fa fa-facebook {
- font-size: 1em;
- font-color: black;
-}
-
-.fa fa-facebook:hover {
-font-color: white;
-background color: black;
-}
-
-.yelp {
-float: right;
-}
-
-.yelp i:hover {
-font-color: white;
-background color: black;
-float: right;
-}
-
-.instagram {
-float: right;
-}
-
-.instagram i:hover {
-font-color: white;
-background color: black;
-float: right;
-}
 
 #menu {
 width: 100%;
