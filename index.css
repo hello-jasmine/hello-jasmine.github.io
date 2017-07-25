@@ -46,6 +46,7 @@ margin: 0;
 float: left;
 padding: .5em;
 line-height: 1.7em;
+ text-decoration: none;
 }
 
 .menu-items {
