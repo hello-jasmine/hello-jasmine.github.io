@@ -15,10 +15,10 @@
  
 }
 
-a:hover {
+.icons {
  background-color: black;
 }
-i:hover {
+.icons i:hover {
  color: white;
 }
 
@@ -62,8 +62,9 @@ padding: .5em;
 margin: 0;
 }
 
-li:hover {
+.menu-items:hover {
 font-color: white;
+ background: black;
 }
 
 #chicken {
