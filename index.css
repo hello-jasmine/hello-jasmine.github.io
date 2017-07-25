@@ -21,19 +21,11 @@
  text-decoration: none;
 }
 
-.mb .menu .box {
- 
-}
-
 .mb .chinese {
  float: right;
  display: block;
  padding: .5em;
  line-height: 1.7em;
- text-decoration: none;
-}
-
-.mb .chinese .zw {
  font: 1.2em Hanzipen TC;
  text-align: center;
  text-decoration: none;
