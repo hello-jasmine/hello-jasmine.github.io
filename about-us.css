@@ -87,14 +87,28 @@
  margin-right: 100px;
  background-color: black;
  color: white;
- border-width: 5px;
- border-color:red;
- border-style: solid;
 }
 
 #hj {
  font: 3em Alcubierre;
  color: #3ee8e2;
  text-align: center;
+}
+
+.tags {
+ font: 2em Alcubierre;
+ color: #3ee8e2;
+}
+
+#auth {
+ margin-right: 20%;
+}
+
+#trad {
+ margin-right: 75%;
+}
+
+#tea {
+ margin-right: 45%;
 }
 
