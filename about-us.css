@@ -83,20 +83,19 @@
 
 #middle-block {
  height: 600px;
- background-color: #3ee8e2;
- opacity: .05;
+ background-color: #e5fffd;
+ 
 }
 
 #hj {
  font: 3em Alcubierre;
  color: black;
  text-align: center;
- opacity: .9;
 }
 
 .tags {
  font: 1.em Alcubierre;
- color: #3ee8e2;
+ color: black;
  line-height: 1.1em;
 }
 
