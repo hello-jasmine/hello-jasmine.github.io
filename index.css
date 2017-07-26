@@ -9,6 +9,12 @@
  width: 100%;
 }
 
+.mb #logo {
+ float: left;
+ display: block;
+ height: 30px;
+}
+
 .mb .menu {
  float: left;
  display: block;
