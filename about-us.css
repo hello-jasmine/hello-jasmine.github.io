@@ -77,6 +77,7 @@
 
 .block {
  display: inline-block; 
+ margin-top: 0;
 }
 
 #left-block {
@@ -103,7 +104,7 @@ float: right;
 }
 
 #hj {
- font: 3em Albubierre;
+ font: 3em Alcubierre;
  color: #3ee8e2;
  text-align: center;
 }
