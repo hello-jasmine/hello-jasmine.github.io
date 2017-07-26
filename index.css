@@ -23,7 +23,8 @@
 .mb .chinese {
  float: right;
  display: block;
- padding: .5em;
+ padding: 1em;
+ margin-right: .5em;
  line-height: 1.7em;
  font: 1.2em Hanzipen TC;
  color: black;
