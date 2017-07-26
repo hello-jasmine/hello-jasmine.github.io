@@ -99,17 +99,21 @@
 
 #auth {
  position: relative;
- left: 3em;
- font: 1em Alcubierre;
+ left: 6em;
+ font: 2em Alcubierre;
+ font-weight: bold;
 }
 
 #trad {
- margin-right: 8em;
- font: 1.3em Alcubierre;
+ position: relative;
+ left: 15em;
+ font: 2.3em Alcubierre;
 }
 
 #tea {
- margin-right: 5em;
- font: 1.2em Alcubierre;
+ position: relative;
+ left: 9em;
+ font: 1.9em Alcubierre;
+ font-style: italic;
 }
 
