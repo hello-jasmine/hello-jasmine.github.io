@@ -94,20 +94,21 @@
 }
 
 .tags {
- font: 1em Alcubierre;
- font-color: black;
- line-height: 1.1em;
+ line-height: 1em;
 }
 
 #auth {
  margin-right: 3em;
+ font: 1em Alcubierre;
 }
 
 #trad {
  margin-right: 8em;
+ font: 1.3em Alcubierre;
 }
 
 #tea {
  margin-right: 5em;
+ font: 1.2em Alcubierre;
 }
 
