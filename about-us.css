@@ -1,16 +1,26 @@
-.white-block {
-width: 20%;
+.block {
+ display: inline-block; 
+}
+
+#left-block {
+width: 100px;
 height: 200px;
 background-color: white;
 float: left;
-position: relative;
+
 }
 
-.black-block {
-width: 60%;
+#right-block {
+width: 100px
 height: 200px;
-background-color: black;
-float: left;
-position: relative;
+background-color: white;
+float: right;
+}
+
+#middle-block {
+ margin-left: 100px;
+  margin-right: 100px;
+  background-color: black;
+}
 
 
