@@ -91,15 +91,17 @@
  font: 3em Alcubierre;
  color: black;
  text-align: center;
+ font-weight: bold;
 }
 
 .tags {
- line-height: 1em;
+ margin: 0;
 }
 
 #auth {
  position: relative;
  left: 6em;
+ bottom: 2em;
  font: 2em Alcubierre;
  font-weight: bold;
 }
