@@ -1,10 +1,87 @@
+/*Menu CSS */
+
+
+@font-face {
+ font-family: Alcubierre;
+ src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
+ }
+ 
+.mb {
+ background-color: white;
+ height: 60px;
+ width: 100%;
+}
+
+.mb #logo {
+ float: left;
+ display: block;
+ height: 60px;
+ width: 120px;
+}
+
+.mb .menu {
+ float: left;
+ display: block;
+ padding: .5em;
+ line-height: 1.7em;
+ color: black;
+ text-align: center;
+ font: 1.2em Alcubierre;
+ text-decoration: none;
+}
+
+.mb .chinese {
+ float: right;
+ display: block;
+ padding: .5em;
+ margin-right: .5em;
+ margin-bottom: .5em;
+ line-height: 1.7em;
+ font: 1.2em Hanzipen TC;
+ color: black;
+ text-align: center;
+ text-decoration: none;
+}
+
+.mb .icons {
+ display: block;
+ float: right;
+ padding: 1em;
+ line-height: 1.7em;
+ margin-top: .5em;
+ color: black;
+ font-size: 1.2em;
+ background-color: white;
+}
+
+.mb .icons:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .menu:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .chinese:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+
+/*Three Blocks*/
+
 .block {
  display: inline-block; 
 }
 
 #left-block {
 width: 100px;
-height: 200px;
+height: 600px;
 background-color: white;
 float: left;
 
@@ -12,17 +89,22 @@ float: left;
 
 #right-block {
 width: 100px
-height: 200px;
+height: 600px;
 background-color: white;
 float: right;
 }
 
 #middle-block {
- height: 200px;
+ height: 600px;
  margin-left: 100px;
  margin-right: 100px;
  background-color: black;
  color: white;
 }
 
+#hj {
+ font: 3em Albubierre;
+ color: #3ee8e2;
+ text-align: center;
+}
 
