@@ -85,6 +85,9 @@ width: 100px;
 height: 600px;
 background-color: white;
 float: left;
+ border-width: 5px;
+ border-color:red;
+ 
 
 }
 
@@ -93,6 +96,8 @@ width: 100px
 height: 600px;
 background-color: white;
 float: right;
+ border-width: 5px;
+ border-color:red;
 }
 
 #middle-block {
@@ -101,6 +106,8 @@ float: right;
  margin-right: 100px;
  background-color: black;
  color: white;
+ border-width: 5px;
+ border-color:red;
 }
 
 #hj {
