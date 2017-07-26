@@ -80,27 +80,6 @@
  margin-top: 0;
 }
 
-#left-block {
-width: 100px;
-height: 600px;
-background-color: white;
-float: left;
- border-width: 5px;
- border-color:red;
- border-style: solid;
- 
-
-}
-
-#right-block {
-width: 100px
-height: 600px;
-background-color: white;
-float: right;
- border-width: 5px;
- border-color:red;
- border-style: solid;
-}
 
 #middle-block {
  height: 600px;
