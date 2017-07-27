@@ -94,28 +94,17 @@
  font-weight: bold;
 }
 
-.tags {
- margin: 0;
+h3 {
+ font: 1.5em Calibri;
+ color: black;
+ text-align: center;
 }
 
 #auth {
- position: relative;
- left: 6em;
- bottom: 2em;
- font: 2em Alcubierre;
- font-weight: bold;
-}
-
-#trad {
- position: relative;
- left: 15em;
- font: 2.3em Alcubierre;
+ font-style: italic;
 }
 
 #tea {
- position: relative;
- left: 9em;
- font: 1.9em Alcubierre;
- font-style: italic;
+font-weight: bold;
 }
 
