@@ -99,6 +99,7 @@ h3 {
  color: black;
  text-align: center;
  display: inline-block;
+ margin: .5em;
 }
 
 #auth {
