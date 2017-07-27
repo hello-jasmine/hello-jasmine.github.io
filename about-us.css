@@ -5,6 +5,11 @@
  font-family: Alcubierre;
  src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
  }
+
+@font-face {
+ font-family: Sadie Sans;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/Sadie Sans.otf');
+}
  
 .mb {
  background-color: white;
@@ -95,7 +100,7 @@
 }
 
 h3 {
- font: 1em Calibri;
+ font: 1em Sadie Sans;
  color: black;
  text-align: center;
  display: inline;
