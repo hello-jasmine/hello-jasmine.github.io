@@ -107,7 +107,12 @@ h3 {
  font-style: italic;
 }
 
+#trad {
+ margin: 2em;
+}
+
 #tea {
+ margin: 2em;
 font-weight: bold;
 }
 
