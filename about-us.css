@@ -98,6 +98,7 @@ h3 {
  font: 1.5em Calibri;
  color: black;
  text-align: center;
+ display: inline-block;
 }
 
 #auth {
