@@ -87,10 +87,11 @@
 
 
 #middle-block {
- height: 300px;
+ height: 400px;
  background-color: white;
  border-style: double;
- width: 70%;
+ margin-left: 3em;
+ margin-right: 3em;
  
 }
 
