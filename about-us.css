@@ -15,6 +15,11 @@
  font-family: NexaRustHandmade-Extended;
  src: url('https://raw.githubusercontent.com/hello-jasmine/master/NexaRustHandmade-Extended.otf');
 }
+
+@font-face {
+ font-family: NexaRustScriptL-0;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/
+ }
  
 .mb {
  background-color: white;
@@ -109,7 +114,7 @@
 }
 
 h3 {
- font: 1.4em Sadie Sans;
+ font: 1.4em NexaRustScriptL-0;
  color: black;
  text-align: center;
  
