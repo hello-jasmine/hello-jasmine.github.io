@@ -2,6 +2,11 @@
  font-family: Alcubierre;
  src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
  }
+
+@font-face {
+ font-family: Hanzipen;
+ src: url('hello-jasmine.github.io/hanzipen.ttf');
+}
  
 .mb {
  background-color: white;
@@ -34,7 +39,7 @@
  margin-right: .5em;
  margin-bottom: .5em;
  line-height: 1.7em;
- font: 1.2em Hanzipen TC;
+ font: 1.2em Hanzipen;
  color: black;
  text-align: center;
  text-decoration: none;
