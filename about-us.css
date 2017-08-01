@@ -17,8 +17,8 @@
 }
 
 @font-face {
- font-family: NexaRustScriptL-0;
- src: url('https://raw.githubusercontent.com/hello-jasmine/master/NexaRustScriptL-0.otf');
+ font-family: calibril;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/calibril.ttf');
  }
  
 .mb {
@@ -138,5 +138,5 @@ h3 {
 .para {
  margin-left: 4em;
  margin-right: 4em;
- font: 1em Sans Serif;
+ font: 1em  calibril;
 }
