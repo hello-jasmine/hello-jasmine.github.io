@@ -2,8 +2,8 @@
 
 
 @font-face {
- font-family: Alcubierre;
- src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
+ font-family: NexaRustSans-Black;
+ src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/NexaRustSans-Black.otf');
  }
 
 @font-face {
@@ -41,7 +41,7 @@
  line-height: 1.7em;
  color: black;
  text-align: center;
- font: 1.2em Alcubierre;
+ font: 1.2em NexaRustSans-Black;
  text-decoration: none;
 }
 
