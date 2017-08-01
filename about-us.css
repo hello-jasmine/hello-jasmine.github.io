@@ -100,8 +100,8 @@
  height: 400px;
  background-color: white;
  border-style: double;
- margin-left: 5em;
- margin-right: 5em;
+ margin-left: 7em;
+ margin-right: 7em;
  
 }
 
@@ -136,7 +136,7 @@ h3 {
 }
 
 .para {
- margin-left: 4em;
- margin-right: 4em;
+ margin-left: 3em;
+ margin-right: 3em;
  font: 1em  calibril;
 }
