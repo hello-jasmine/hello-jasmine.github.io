@@ -10,6 +10,11 @@
  font-family: Sadie Sans;
  src: url('https://raw.githubusercontent.com/hello-jasmine/master/Sadie Sans.otf');
 }
+
+@font-face {
+ font-family: NexaRustHandmade-Extended;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/NexaRustHandmade-Extended.otf');
+}
  
 .mb {
  background-color: white;
@@ -96,7 +101,7 @@
 }
 
 #hj {
- font: 3em Alcubierre;
+ font: 3em NexaRustHandmade-Extended;
  color: black;
  text-align: center;
  font-weight: bold;
