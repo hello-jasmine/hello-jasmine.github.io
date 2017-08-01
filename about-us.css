@@ -17,8 +17,8 @@
 }
 
 @font-face {
- font-family: calibril;
- src: url('https://raw.githubusercontent.com/hello-jasmine/master/calibril.ttf');
+ font-family: Calibril;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/Calibril.ttf');
  }
  
 .mb {
@@ -138,5 +138,5 @@ h3 {
 .para {
  margin-left: 3em;
  margin-right: 3em;
- font: 1em  calibril;
+ font: 1em  Calibril;
 }
