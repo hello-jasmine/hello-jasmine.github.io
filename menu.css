@@ -95,19 +95,16 @@
 }
 
 #menu-menu {
- width: 750px;
- margin: 0 auto;
- list-style: none;
+ text-align: center;
 }
 
 #menu-menu li {
- float: left;
+ display: inline;
+
 }
 
 #menu-menu a {
- display: block;
- text-align: center;
- width: 150px;
+ padding: 0 30px;
  text-decoration: none;
  font: 3em Sadie Sans;
 }
