@@ -1,0 +1,102 @@
+/* Header */
+
+@font-face {
+ font-family: Alcubierre;
+ src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
+ }
+ 
+ @font-face {
+ font-family: Sadie Sans;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/Sadie Sans.otf');
+}
+
+@font-face {
+ font-family: NexaRustHandmade-Extended;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/NexaRustHandmade-Extended.otf');
+}
+
+@font-face {
+ font-family: Calibri Light;
+ src: url('https://raw.githubusercontent.com/hello-jasmine/master/Calibril.ttf');
+ }
+ 
+.mb {
+ background-color: white;
+ height: 60px;
+ width: 100%;
+}
+
+.mb #logo {
+ float: left;
+ display: block;
+ height: 57px;
+ width: 200px;
+}
+
+.mb .menu {
+ float: left;
+ display: block;
+ padding: .5em;
+ line-height: 1.7em;
+ color: black;
+ text-align: center;
+ font: 1.2em Alcubierre;
+ text-decoration: none;
+}
+
+.mb .chinese {
+ float: right;
+ display: block;
+ padding: .5em;
+ margin-right: .5em;
+ margin-bottom: .5em;
+ line-height: 1.7em;
+ font: 1.2em Hanzipen;
+ color: black;
+ text-align: center;
+ text-decoration: none;
+}
+
+.mb .icons {
+ display: block;
+ float: right;
+ padding: 1em;
+ line-height: 1.7em;
+ margin-top: .5em;
+ color: black;
+ font-size: 1.2em;
+ background-color: white;
+}
+
+.mb .icons:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .menu:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .chinese:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+h1 {
+font: 3em NexaRustHandmade-Extended;
+ color: black;
+ text-align: center;
+ font-weight: bold;
+ margin-bottom: 0;
+}
+
+h2 {
+text-align: center;
+font: 2em Alcubierre;
+color: black;
+}
+
