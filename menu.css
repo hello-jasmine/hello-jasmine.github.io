@@ -104,6 +104,7 @@ color: black;
 #menu-menu {
  height: 100px;
  width: 60%;
+ border-style: solid;
 }
 
 #left {
