@@ -102,8 +102,9 @@ color: black;
 }
 
 #menu-menu {
- height: 100px;
- width: 60%;
+ height: 80px;
+ margin-right: 100px;
+ margin-left: 100px;
  border-style: solid;
 }
 
