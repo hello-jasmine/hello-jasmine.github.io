@@ -110,6 +110,7 @@ h4 {
  text-align: center;
  font: 1em Alcubierre;
  color: black;
+ margin-bottom: .1em;
 
 }
 
@@ -117,7 +118,8 @@ p {
  text-align: center;
  font-style: italic;
  color: black;
- font: .7em Calibri Light;
+ font: .7em Sadie Sans;
+ margin-top: 0;
 }
  
 
