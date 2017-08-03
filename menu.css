@@ -118,8 +118,7 @@ color: black;
 
 #middle {
  text-align: center;
- margin-left: 35%;
- transform: translateX(-50%);
+ vertical-align: middle;
  float: left;
  width: 70px;
  height: 70px;
