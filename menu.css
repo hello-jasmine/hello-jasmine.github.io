@@ -86,7 +86,7 @@
  opacity: .7;
 }
 
-h1 {
+.title {
  font: 3em NexaRustHandmade-Extended;
  color: black;
  text-align: center;
@@ -94,19 +94,19 @@ h1 {
  margin-bottom: 0;
 }
 
-h2 {
+.type {
 text-align: center;
 font: 2.8em Sadie Sans;
 color: black;
 }
 
-h3 {
+.kind-of-tea {
  text-align: center;
   font: 1.8em Alcubierre;
  color: black;
  }
 
-h4 {
+.teas {
  text-align: center;
  font: 1em Alcubierre;
  color: black;
@@ -114,7 +114,7 @@ h4 {
 
 }
 
-p {
+.desc {
  text-align: center;
  font-style: italic;
  color: black;
