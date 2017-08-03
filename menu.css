@@ -103,15 +103,16 @@ color: black;
 
 #left {
  float: left;
- margin-left: 100px;
+ margin-left: 20%;
 }
 
 #middle {
- margin: auto;
+ margin-left: 30%;
+ margin-right: 30%;
 }
 
 #right {
- margin-right: 100px;
+ margin-right: 20%;
  float: right;
 }
 
