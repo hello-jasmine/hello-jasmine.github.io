@@ -115,10 +115,12 @@ color: black;
 
 #middle {
  text-align: center;
+ margin-left: 30%;
+ margin-right: 30%;
 }
 
 #right {
- margin-right: 30px;
+ 
  float: right;
 }
 
