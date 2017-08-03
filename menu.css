@@ -86,13 +86,6 @@
  opacity: .7;
 }
 
-.title {
- font: 3em NexaRustHandmade-Extended;
- color: black;
- text-align: center;
- font-weight: bold;
- margin-left: 2em;
-}
 
 #menu-menu {
  text-align: center;
@@ -104,7 +97,7 @@
 }
 
 #menu-menu a {
- padding: 100px;
+ padding: 150px;
  text-decoration: none;
  font: 3em Sadie Sans;
  color: black;
