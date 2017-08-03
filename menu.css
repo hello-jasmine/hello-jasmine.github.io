@@ -94,46 +94,28 @@
  margin-bottom: 0;
 }
 
-.type {
-font: 3em Sadie Sans;
-color: black;
-}
-
 #menu-menu {
+ width: 750px;
+ margin: 0 auto;
+ list-style: none;
+}
+
+#menu-menu li {
+ float: left;
+}
+
+#menu-menu a {
+ display: block;
  text-align: center;
- height: 80px;
- margin-right: 100px;
- margin-left: 100px;
- border-style: solid;
-}
-
-#left {
- display: inline;
- width: 70px;
- height: 70px;
- border-style: solid;
-}
-
-#middle {
- display: inline;
- width: 70px;
- height: 70px;
- border-style: solid;
-}
-
-#right {
-display: inline;
- width: 70px;
- height: 70px;
- border-style: solid;
+ width: 150px;
+ text-decoration: none;
+ font: 3em Sadie Sans;
 }
 
 .kind-of-tea {
- display: inline-block;
- padding: 10px;
-  font: 2em Sadie Sans;
+ font: 2em Sadie Sans;
  color: black;
- }
+}
 
 .teas {
  text-align: center;
