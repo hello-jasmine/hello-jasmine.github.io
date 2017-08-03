@@ -96,14 +96,28 @@ h1 {
 
 h2 {
 text-align: center;
-font: 2.2em Sadie Sans;
+font: 2.8em Sadie Sans;
 color: black;
 }
 
 h3 {
- text-align: center: 
+ text-align: center;
   font: 1.8em Alcubierre;
  color: black;
- 
  }
+
+h4 {
+ text-align: center;
+ font: 1em Alcubierre;
+ color: black;
+
+}
+
+p {
+ text-align: center;
+ font-style: italic;
+ color: black;
+ font: .7em Calibri Light;
+}
+ 
 
