@@ -96,7 +96,6 @@
 
 .type {
  display: block;
-text-align: center;
 font: 3em Sadie Sans;
 color: black;
 }
@@ -109,17 +108,20 @@ color: black;
 }
 
 #left {
+ margin-bottom: 10px;
  float: left;
  margin-left: 30px;
 }
 
 #middle {
- text-align: center;
- margin-left: 30%;
- margin-right: 30%;
+ margin-bottom: 10px;
+ margin-left: 25%;
+ margin-right: 25%;
 }
 
 #right {
+ float: right;
+ margin-bottom: 10px; 
  margin-right: 30px;
 }
 
