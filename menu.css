@@ -113,18 +113,21 @@ color: black;
  margin-left: 30px;
  width: 100px;
  height: 100px;
+ border-style: solid;
 }
 
 #middle {
  float: left;
   width: 100px;
  height: 100px;
+ border-style: solid;
 }
 
 #right {
  float: right;
   width: 100px;
  height: 100px;
+ border-style: solid;
 }
 
 .kind-of-tea {
