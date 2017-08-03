@@ -118,7 +118,7 @@ color: black;
 
 #middle {
  text-align: center;
- justify-content: center;
+ align-items: center;
  width: 70px;
  height: 70px;
  border-style: solid;
