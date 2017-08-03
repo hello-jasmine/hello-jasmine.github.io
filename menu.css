@@ -118,8 +118,8 @@ color: black;
 
 #middle {
  text-align: center;
- margin-left: 30%;
- margin-right: 30%;
+ margin-left: 35%;
+ margin-right: 35%;
  float: left;
   width: 70px;
  height: 70px;
@@ -128,7 +128,7 @@ color: black;
 
 #right {
  float: right;
- margin-left: 50px;
+ margin-right: 50px;
   width: 70px;
  height: 70px;
  border-style: solid;
