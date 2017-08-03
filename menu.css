@@ -109,7 +109,7 @@ color: black;
 
 #left {
  text-align: center;
- overflow: auto;
+ 
  float: left;
  margin-left: 100px;
  width: 70px;
@@ -119,8 +119,9 @@ color: black;
 
 #middle {
  text-align: center;
- overflow: auto;
- margin: auto;
+ 
+ margin-left: 4em;
+ margin-right: 4em;
  width: 70px;
  height: 70px;
  border-style: solid;
@@ -128,7 +129,7 @@ color: black;
 
 #right {
  text-align: center;
- overflow: auto;
+ 
  float: right;
  margin-right: 100px;
  width: 70px;
