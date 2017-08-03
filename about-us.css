@@ -97,13 +97,20 @@
 
 
 #middle-block {
- height: 380px;
- background-image: url('bubble-teas.jpg');
+ height: 700px;
+ background-color: white;
  border-style: double;
  margin-left: 7em;
  margin-right: 7em;
  
 }
+
+#pic {
+ height: 380px;
+ background-image: url('bubble-teas.jpg');
+ margin-left: 7em;
+ margin-right: 7em;
+ }
 
 #hj {
  font: 3em NexaRustHandmade-Extended;
