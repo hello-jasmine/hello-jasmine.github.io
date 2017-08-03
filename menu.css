@@ -95,25 +95,29 @@
 }
 
 .type {
- display: inline block;
+ display: block;
 text-align: center;
 font: 3em Sadie Sans;
 color: black;
 }
 
+#menu-menu {
+ height: 100px;
+ width: 60%;
+}
+
 #left {
  float: left;
- margin-left: 20%;
+ margin-left: 30px;
 }
 
 #middle {
- margin-left: 30%;
- margin-right: 30%;
+ text-align: center;
 }
 
 #right {
- margin-right: 20%;
- float: left;
+ margin-right: 30px;
+ float: right;
 }
 
 .kind-of-tea {
