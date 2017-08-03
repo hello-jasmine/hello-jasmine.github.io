@@ -106,6 +106,7 @@
 }
 
 #pic {
+ display: block;
  height: 235px;
  background-image: url('bubble-teas.jpg');
  margin-right: 1em;
