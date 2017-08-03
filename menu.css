@@ -95,12 +95,12 @@
 }
 
 .type {
- display: block;
 font: 3em Sadie Sans;
 color: black;
 }
 
 #menu-menu {
+ display: block;
  height: 80px;
  margin-right: 100px;
  margin-left: 100px;
