@@ -96,19 +96,19 @@
 
 .type {
 text-align: center;
-font: 2.8em Sadie Sans;
+font: 3em Sadie Sans;
 color: black;
 }
 
 .kind-of-tea {
  text-align: center;
-  font: 1.8em Sadie Sans;
+  font: 2em Sadie Sans;
  color: black;
  }
 
 .teas {
  text-align: center;
- font: 1.3em Alcubierre;
+ font: 1.5em Alcubierre;
  color: black;
  margin-bottom: .1em;
 
@@ -118,7 +118,7 @@ color: black;
  text-align: center;
  font-style: italic;
  color: black;
- font: .7em Alcubierre;
+ font: .9em Alcubierre;
  margin-top: 0;
 }
  
