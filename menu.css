@@ -89,7 +89,7 @@
 
 #menu-menu {
  text-align: center;
-
+display: block;
 }
 
 #menu-menu li {
