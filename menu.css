@@ -112,6 +112,12 @@ border-style: solid;
  
 }
 
+#menu-menu a:hover {
+ background-color: #0675CA;
+ opacity: .7;
+ color: white;
+}
+
 .kind-of-tea {
  font: 2em Sadie Sans;
  color: black;
