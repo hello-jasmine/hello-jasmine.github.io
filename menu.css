@@ -131,7 +131,7 @@ border-style: solid;
  margin: 0;
  paddding: 0;
  background-image: url('brewed-tea.jpg');
- 
+ overflow: hidden;
 }
 
 .kind-of-tea {
