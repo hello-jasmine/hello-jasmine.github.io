@@ -90,14 +90,14 @@
 #menu-menu {
  text-align: center;
  border-style: solid;
- border-color: white;
+ border-color: black;
 
 }
 
 #menu-menu li {
  display: inline;
 border-style: solid;
- border-color: white;
+ border-color: black;
 }
 
 #menu-menu a {
@@ -107,7 +107,7 @@ border-style: solid;
  font: 3em Sadie Sans;
  color: black;
  border-style: solid;
- border-color: white;
+ border-color: black;
  
 }
 
@@ -137,7 +137,7 @@ border-style: solid;
  font: 6em Sadie Sans;
  color: white;
  text-align: center;
- padding-top: 30px;
+ 
 }
 
 .teas {
