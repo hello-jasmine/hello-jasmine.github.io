@@ -93,11 +93,12 @@
 
 #menu-menu li {
  display: inline;
- margin: 0 auto;
+ 
 
 }
 
 #menu-menu a {
+ 
  padding: 40px;
  text-decoration: none;
  font: 3em Sadie Sans;
