@@ -118,6 +118,10 @@ border-style: solid;
  color: white;
 }
 
+#fruit {
+ margin-bottom: .1em;
+}
+
 .kind-of-tea {
  font: 2em Sadie Sans;
  color: black;
