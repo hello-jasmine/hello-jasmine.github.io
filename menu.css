@@ -127,7 +127,7 @@ border-style: solid;
 }
 
 #bt {
- width: 500px;
+ width: 100%
  margin: 0;
  paddding: 0;
  background-image: url('brewed-tea.jpg');
@@ -135,9 +135,10 @@ border-style: solid;
 }
 
 .kind-of-tea {
- font: 2em Sadie Sans;
- color: black;
+ font: 6em Sadie Sans;
+ color: white;
  text-align: center;
+ padding-top: 100px;
 }
 
 .teas {
