@@ -89,11 +89,12 @@
 
 #menu-menu {
  text-align: center;
-display: block;
+ margin: 0 auto 0 auto;
 }
 
 #menu-menu li {
  display: inline;
+ 
 
 }
 
