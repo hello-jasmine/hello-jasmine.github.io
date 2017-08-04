@@ -127,11 +127,11 @@ border-style: solid;
 }
 
 #bt {
- height: 536px;
+ height: 300px;
  margin: 0;
  paddding: 0;
  background-image: url('brewed-tea.jpg');
- overflow: hidden;
+ 
 }
 
 .kind-of-tea {
