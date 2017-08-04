@@ -122,6 +122,10 @@ border-style: solid;
  margin-bottom: .1em;
 }
 
+#org {
+ margin-bottom: .1em;
+}
+
 .kind-of-tea {
  font: 2em Sadie Sans;
  color: black;
