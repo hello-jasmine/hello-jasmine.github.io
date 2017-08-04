@@ -127,7 +127,7 @@ border-style: solid;
 }
 
 #bt {
- height: 300px;
+ width: 500px;
  margin: 0;
  paddding: 0;
  background-image: url('brewed-tea.jpg');
