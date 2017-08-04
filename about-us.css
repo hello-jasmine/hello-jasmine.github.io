@@ -107,10 +107,9 @@
 
 #pic {
  display: block;
- height: 235px;
+ width: 100%;
  background-image: url('bubble-teas.jpg');
- margin-right: 2em;
- margin-left: 1em;
+ 
  }
 
 #hj {
