@@ -90,6 +90,7 @@
 #menu-menu {
  text-align: center;
  border-style: solid;
+ width: 100%;
 }
 
 #menu-menu li {
