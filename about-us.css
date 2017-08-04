@@ -98,7 +98,8 @@
 
 #middle-block {
  height: 700px;
- background-color: white;
+ 
+ background: rgba(6, 117, 202, .15);
  
  margin-left: 7em;
  margin-right: 7em;
