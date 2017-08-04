@@ -89,10 +89,12 @@
 
 #menu-menu {
  text-align: center;
+ border-style: solid;
 }
 
 #menu-menu li {
  display: inline;
+ border-style: solid;
  
 
 }
