@@ -87,33 +87,7 @@
 }
 
 
-#menu-menu {
- text-align: center;
- margin: 0 auto 0 auto;
-}
 
-#menu-menu li {
- display: inline;
- 
-
-}
-
-#menu-menu a {
- padding-left: 70px;
- padding-right: 70px;
- text-decoration: none;
- font: 3em Sadie Sans;
- color: black;
- border-style: solid;
- border-color: black;
- 
-}
-
-#menu-menu a:hover {
- background-color: #0675CA;
- opacity: .7;
- color: white;
-}
 
 #fruit {
  margin-bottom: .1em;
