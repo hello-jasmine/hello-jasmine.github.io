@@ -99,12 +99,9 @@
 
 
 #bt {
- 
- width: 100%;
- margin-top: 30px;
- margin-bottom: 10px;
- paddding: 0;
- background-image: url('brewed-tea.jpg');
+width: 100%;
+height: 150px;
+background-image: url('brewed-tea.jpg');
  
 }
 
@@ -112,7 +109,9 @@
  font: 6em Sadie Sans;
  color: white;
  text-align: center;
- 
+ margin-top: 30px;
+margin-bottom: 30px;
+padding-top: 20px;
 }
 
 .teas {
