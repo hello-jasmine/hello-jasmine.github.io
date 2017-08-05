@@ -87,6 +87,41 @@
 }
 
 
+#navbar {
+ position: relative;
+ height: 60px;    
+ background-color: white;    
+ width: 100%;    
+ margin: 0 auto;
+}
+
+#navbar ul {
+margin: 40px;    
+padding: 0;    
+list-style: none;    
+text-align: center;
+}
+
+#navbar ul li {
+margin: 0;    
+padding: 0;    
+display: inline-block;
+}
+
+#navbar ul li a {
+text-decoration: none;
+font: 3em Sadie Sans;    
+padding: 10px 70px;    
+display: block;    
+color: black;    
+text-align: center;
+}
+
+#navbar ul li a:hover {
+background-color: #3CC7B7;
+opacity: .7;
+color: white;
+}
 
 
 #fruit {
