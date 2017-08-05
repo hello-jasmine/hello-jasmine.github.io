@@ -136,6 +136,20 @@ padding-top: 0;
 color: white;
 }
 
+#fru {
+ margin-top: 0;
+padding-top: 0;
+color: white;
+}
+
+#ft {
+width: 78%;
+margin: auto;
+height: 200px; 
+background-image: url('http://hello-jasmine.github.io/fruit-tea.jpg');
+background-position: 50% 70%;
+}
+
 .kind-of-tea {
  font: 6em Sadie Sans;
  color: white;
