@@ -105,6 +105,12 @@ background-image: url('brewed-tea.jpg');
  
 }
 
+#mt {
+ width: 100%;
+height: 150px;
+background-image: url('milk-tea2.jpg');
+}
+
 .kind-of-tea {
  font: 6em Sadie Sans;
  color: white;
