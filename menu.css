@@ -99,7 +99,8 @@
 
 
 #bt {
-width: 100%;
+width: 78%;
+ margin: auto;
 height: 200px;
 background-image: url('brewed-tea.jpg');
  
