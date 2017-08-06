@@ -1,0 +1,150 @@
+/* Header */
+
+@font-face {
+ font-family: Alcubierre;
+ src: url('Alcubierre.otf');
+ }
+ 
+ @font-face {
+ font-family: Sadie Sans;
+ src: url('Sadie Sans.otf');
+}
+
+@font-face {
+ font-family: NexaRustHandmade-Extended;
+ src: url('NexaRustHandmade-Extended.otf');
+}
+
+@font-face {
+ font-family: Calibri Light;
+ src: url('Calibril.ttf');
+ }
+ 
+.mb {
+ background-color: white;
+ height: 60px;
+ width: 100%;
+}
+
+.mb #logo {
+ float: left;
+ display: block;
+ height: 57px;
+ width: 200px;
+}
+
+.mb .menu {
+ float: left;
+ display: block;
+ padding: .5em;
+ line-height: 1.7em;
+ color: black;
+ text-align: center;
+ font: 1.2em Alcubierre;
+ text-decoration: none;
+}
+
+.mb .chinese {
+ float: right;
+ display: block;
+ padding: .5em;
+ margin-right: .5em;
+ margin-bottom: .5em;
+ line-height: 1.7em;
+ font: 1.2em Hanzipen;
+ color: black;
+ text-align: center;
+ text-decoration: none;
+}
+
+.mb .icons {
+ display: block;
+ float: right;
+ padding: 1em;
+ line-height: 1.7em;
+ margin-top: .5em;
+ color: black;
+ font-size: 1.2em;
+ background-color: white;
+}
+
+.mb .icons:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .menu:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .chinese:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+
+#navbar {
+ position: relative;
+ height: 60px;    
+ background-color: white;    
+ width: 100%;    
+ margin: 0 auto;
+}
+
+#navbar ul {
+margin: 40px;    
+padding: 0;    
+list-style: none;    
+text-align: center;
+}
+
+#navbar ul li {
+margin: 0;    
+padding: 0;    
+display: inline-block;
+}
+
+#navbar ul li a {
+text-decoration: none;
+font: 3em Sadie Sans;    
+padding: 10px 70px;    
+display: block;    
+color: black;    
+text-align: center;
+}
+
+#navbar ul li a:hover {
+background-color: #3CC7B7;
+opacity: .7;
+color: white;
+}
+
+
+#des {
+width: 78%;
+margin: auto;
+height: 200px; 
+background-image: url('http://hello-jasmine.github.io/taro-cake.jpg');
+background-position: 50% 60%;
+}
+
+.kind-of-sweets {
+ font: 6em Sadie Sans;
+ color: white;
+ text-align: center;
+ margin-top: 30px;
+margin-bottom: 30px;
+padding-top: 40px;
+}
+
+.sweets {
+ text-align: center;
+ font: 1.5em Alcubierre;
+ color: black;
+ margin-bottom: .1em;
+
+}
