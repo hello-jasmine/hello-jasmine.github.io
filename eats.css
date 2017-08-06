@@ -129,6 +129,8 @@ width: 78%;
  margin: auto;
 height: 200px;
 background-image: url('http://hello-jasmine.github.io/shilin-chicken.jpg');
+ background-position: 50% 0%;
+
 }
 
 
@@ -137,6 +139,8 @@ width: 78%;
  margin: auto;
 height: 200px;
 background-image: url('http://hello-jasmine.github.io/braised-pork.jpg');
+ background-position: 50% 65%;
+
 }
 
 .kind-of-eats {
