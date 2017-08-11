@@ -76,12 +76,12 @@
 }
 
 
-#chicken {
+#main {
 width:100%;
 padding: 0;
 margin: 0;
 overflow: hidden;
-z-index: 1;
+background-image: url("taiwanese-hipster.jpg");
 }
 
 #motto {
