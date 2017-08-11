@@ -15,7 +15,9 @@
 }
 
  #logo {
- margin: auto;
+ margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
  border-style: solid;
  height: 300px;
 }
