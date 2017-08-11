@@ -110,8 +110,8 @@ display: inline-block;
 
 #navbar ul li a {
 text-decoration: none;
- background-color: #E6F0F2;
- opacity: .9;
+ background-color: #black;
+ opacity: .8;
 font: 3em Sadie Sans;  
 padding: 10px 40px;    
 display: block;    
