@@ -91,7 +91,7 @@
  position: relative;
 width: 78%;
  margin: auto;
-height: 200px;
+height: 150px;
 background-image: url('brewed-tea.jpg');
 }
 
@@ -112,7 +112,7 @@ display: inline-block;
 text-decoration: none;
 background-color: #DFE6E8;
 font: 3em Sadie Sans;    
-padding: 10px 40px;    
+padding: 75px 40px;    
 display: block;    
 color: black;    
 text-align: center;
