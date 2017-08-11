@@ -110,12 +110,12 @@ display: inline-block;
 
 #navbar ul li a {
 text-decoration: none;
- background-color: black;
- opacity: .8;
+ background-color: white;
+ opacity: .7;
 font: 3em Sadie Sans;  
 padding: 10px 40px;    
 display: block;    
-color: white;    
+color: black;    
 text-align: center;
 }
 
