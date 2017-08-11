@@ -96,14 +96,14 @@ background-position: 50% 80%;
 }
 
 #navbar ul {
-margin: 60px;    
+margin: 40px;    
 padding: 0;    
 list-style: none;    
 text-align: center;
 }
 
 #navbar ul li {
-margin: 40px 0px 40px 0px;    
+margin: 60px 0px 60px 0px;    
 padding: 0;    
 display: inline-block;
 }
