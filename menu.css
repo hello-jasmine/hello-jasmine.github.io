@@ -135,51 +135,36 @@ color: white;
 }
 
 
-#mt {
-width: 78%; 
-height: 200px; 
- margin: auto;
- background-image: url('http://hello-jasmine.github.io/milk-tea2.jpg');
-background-position: 70% 65%;
-}
-
-#ao {
+/* #ao {
 width: 78%;
 margin: auto;
 height: 200px; 
 background-image: url('http://hello-jasmine.github.io/add-ons.jpg');
 background-position: 70% 60%;
-}
+} */
 
-#omb {
+/*#omb {
 width: 78%;
 margin: auto;
 height: 200px; 
 background-image: url('http://hello-jasmine.github.io/ginger-milk.jpg');
 background-position: 50% 70%;
-}
+}*/
 
 #caf {
 margin-top: 0;
 padding-top: 0;
-color: white;
+color: black;
  font: .2em Alcubierre;
 }
 
 #fru {
  margin-top: 0;
 padding-top: 0;
-color: white;
+color: black;
  font: .2em Alcubierre;
 }
 
-#ft {
-width: 78%;
-margin: auto;
-height: 200px; 
-background-image: url('http://hello-jasmine.github.io/fruit-tea.jpg');
-background-position: 50% 70%;
-}
 
 .kind-of-tea {
  font: 6em Sadie Sans;
