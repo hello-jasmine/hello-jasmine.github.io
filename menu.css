@@ -111,7 +111,7 @@ display: inline-block;
 #navbar ul li a {
 text-decoration: none;
  background-color: #E6F0F2;
- opacity: .2;
+ opacity: .9;
 font: 3em Sadie Sans;  
 padding: 10px 40px;    
 display: block;    
@@ -121,7 +121,7 @@ text-align: center;
 
 #navbar ul li a:hover {
 background-color: #3CC7B7;
-opacity: .7;
+opacity: .8;
 color: white;
 }
 
