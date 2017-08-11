@@ -103,15 +103,16 @@ text-align: center;
 }
 
 #navbar ul li {
-margin: 0;    
+margin: 50px 0px 50px 0px;    
 padding: 0;    
 display: inline-block;
 }
 
 #navbar ul li a {
 text-decoration: none;
-font: 3em Sadie Sans;    
-padding: 68px 40px;    
+font: 3em Sadie Sans;  
+
+padding: 10px 40px;    
 display: block;    
 color: black;    
 text-align: center;
