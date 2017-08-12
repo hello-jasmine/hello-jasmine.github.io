@@ -3,22 +3,22 @@
 
 @font-face {
  font-family: Alcubierre;
- src: url('https://raw.githubusercontent.com/hello-jasmine/master/Alcubierre.otf');
+ src: url('Alcubierre.otf');
  }
-
-@font-face {
+ 
+ @font-face {
  font-family: Sadie Sans;
- src: url('https://raw.githubusercontent.com/hello-jasmine/master/Sadie Sans.otf');
+ src: url('Sadie Sans.otf');
 }
 
 @font-face {
  font-family: NexaRustHandmade-Extended;
- src: url('https://raw.githubusercontent.com/hello-jasmine/master/NexaRustHandmade-Extended.otf');
+ src: url('NexaRustHandmade-Extended.otf');
 }
 
 @font-face {
  font-family: Calibri Light;
- src: url('https://raw.githubusercontent.com/hello-jasmine/master/Calibril.ttf');
+ src: url('Calibril.ttf');
  }
  
 .mb {
