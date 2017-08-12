@@ -106,6 +106,13 @@
  
 }
 
+#logo-eats {
+ width: 50%;
+ margin: auto;
+ display: block;
+ padding: 0;
+}
+
 #pic {
  width: 100%;
  padding: 0;
