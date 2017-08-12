@@ -15,11 +15,9 @@
 }
 
  #logo {
-  margin-left: auto;
-  margin-right: auto;
+ 
   padding: 0px;
- display: block;
- height: 500px;
+ width: 100%;
 }
 
 .mb .menu {
