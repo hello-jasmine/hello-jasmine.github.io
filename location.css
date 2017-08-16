@@ -103,14 +103,17 @@ body {
  display: inline-block;
 float: right;
 width: 50%;
- margin-right: 5px;
+
 }
+iframe {
+ width: 50px;
+ }
 
 #directions {
  display: inline-block;
 float: left;
 width: 50%;
- margin-left: 5px;
+
 }
 
 h3 {
