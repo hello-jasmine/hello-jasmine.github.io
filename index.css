@@ -1,12 +1,22 @@
 @font-face {
  font-family: Alcubierre;
- src: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/Alcubierre.otf');
+ src: url('Alcubierre.otf');
  }
+ 
+ @font-face {
+ font-family: Sadie Sans;
+ src: url('Sadie Sans.otf');
+}
 
 @font-face {
- font-family: Hanzipen;
- src: url('hello-jasmine.github.io/hanzipen.ttf');
+ font-family: NexaRustHandmade-Extended;
+ src: url('NexaRustHandmade-Extended.otf');
 }
+
+@font-face {
+ font-family: Calibri Light;
+ src: url('Calibril.ttf');
+ }
  
 .mb {
  background-color: white;
@@ -94,13 +104,13 @@ position: relative;
 }
 
 h2 {
-font: 3em Alcubierre;
+font: 3em Sadie Sans;
 margin: .25em;
 text-align: center;
 }
 
 #tea {
-font: 2em Alcubierre;
+font: 2em Sadie Sans;
 margin-right: 7em;
 float: right;
 }
@@ -111,7 +121,7 @@ margin-left: 4em;
 }
 
 #eats {
-font: 2em Alcubierre;
+font: 2em Sadie Sans;
 float: right;
 margin-right: 4em;
 }
