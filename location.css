@@ -102,11 +102,12 @@ body {
 #map {
  display: inline-block;
 float: right;
-width: 50%;
+
 
 }
 iframe {
  width: 50%;
+ 
  }
 
 #directions {
