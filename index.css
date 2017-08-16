@@ -65,15 +65,13 @@ body {
  margin-right: .5em;
  margin-bottom: .5em;
  line-height: 1.7em;
- 
-
-}
-
-.mb .chinese .zw {
  font: 1.2em DFBiaoKaiShu;
  color: black;
  text-align: center;
- text-decoration: none;
+ text-decoration: none; 
+
+}
+
  }
 
 .mb .icons {
