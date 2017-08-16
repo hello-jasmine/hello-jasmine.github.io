@@ -19,7 +19,7 @@
  }
 
 @font-face {
- font-family: DFBK1B;
+ font-family: DFBiaoKaiShu;
  src: url('DFBK1B.TTF');
 }
 
@@ -65,7 +65,7 @@ body {
  margin-right: .5em;
  margin-bottom: .5em;
  line-height: 1.7em;
- font: 1.2em DFGL1B;
+ font: 1.2em DFBiaoKaiShu;
  color: black;
  text-align: center;
  text-decoration: none;
