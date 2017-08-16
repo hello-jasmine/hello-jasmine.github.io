@@ -128,8 +128,8 @@ h4 {
  line-height: .4em;
 }
 #hours {
- font-weight: bold;
- line-height: 1em;
+font: 2em Sadie Sans;
+ margin-top: 10px;
 }
 p {
  font: 1em Alcubierre;
