@@ -127,10 +127,12 @@ h4 {
  text-align: center;
  line-height: .4em;
 }
- #hours {
+h5 {
 font: 2em Sadie Sans;
  margin-top: 10px;
+ line-height: .4em;
 }
+
 p {
  font: 1em Alcubierre;
  text-align: center;
