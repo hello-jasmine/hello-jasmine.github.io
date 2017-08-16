@@ -127,7 +127,7 @@ h4 {
  text-align: center;
  line-height: .4em;
 }
-#hours {
+#directions h4 #hours {
 font: 2em Sadie Sans;
  margin-top: 10px;
 }
