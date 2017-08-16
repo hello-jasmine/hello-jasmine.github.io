@@ -100,20 +100,18 @@ body {
 }
 
 #map {
- display: inline-block;
-float: right;
+ display: block;
+
 
 
 }
 iframe {
- width: 100%；
+ width: 200%；
  
  }
 
 #directions {
- display: inline-block;
-float: left;
-width: 50%;
+ display: block;
 
 }
 
