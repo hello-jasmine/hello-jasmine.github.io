@@ -102,9 +102,24 @@ body {
 #map {
 float: right;
 width: 45%;
+ margin-right: 20px;
 }
 
 #directions {
 float: left;
 width: 45%;
+ margin-left: 20px;
+}
+
+h3 {
+ font: 2em Sadie Sans;
+ text-align: center;
+}
+h4 {
+ font: 1.5em Alcubierre;
+ text-align: center;
+}
+p {
+ font: 1em Alcubierre;
+ text-align: center;
 }
