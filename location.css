@@ -101,6 +101,7 @@ body {
 
 #map {
  display: block;
+ width: 400px;
  margin: auto;
  border: solid;
  }
@@ -118,7 +119,7 @@ iframe {
 }
 
 h3 {
- font: 2em Sadie Sans;
+ font: 3em Sadie Sans;
  text-align: center;
 }
 h4 {
