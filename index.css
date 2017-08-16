@@ -15,11 +15,11 @@
 }
 
  #logo {
- 
+ position: absolute;
   padding: 0px;
   width: 100%;
   margin: 0px;
-  overflow: visible;
+  
 }
 
 .mb .menu {
