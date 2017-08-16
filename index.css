@@ -17,6 +17,11 @@
  font-family: Calibri Light;
  src: url('Calibril.ttf');
  }
+
+@font-face {
+ font-family: DFBK1B;
+ src: url('DFBK1B.TTF');
+}
  
 .mb {
  background-color: white;
