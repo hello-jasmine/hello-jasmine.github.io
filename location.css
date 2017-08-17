@@ -114,26 +114,24 @@ iframe {
 
 #directions {
  display: block;
- border: solid;
-
 }
 
-h3 {
+#directions #title {
  font: 3em Sadie Sans;
  text-align: center;
 }
-h4 {
+#directions .address {
  font: 1.5em Alcubierre;
  text-align: center;
  line-height: .4em;
 }
-h5 {
+#directions #hours {
 font: 2em Sadie Sans;
  margin-top: 10px;
  line-height: .4em;
 }
 
-p {
+#directions .store-hours {
  font: 1em Alcubierre;
  text-align: center;
 }
