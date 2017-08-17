@@ -116,27 +116,17 @@
  padding: 0px;
 }
 
-#pic {
+#main {
  width: 100%;
  padding: 0;
  margin: 0;
- overflow: hidden;
- z-index: 1;
- 
- 
- }
-
-#hj {
- font: 3em NexaRustHandmade-Extended;
- color: black;
- text-align: center;
- font-weight: bold;
- margin-bottom: 0;
+ background-image: url('bobaz.jpg');
 }
 
+
 h3 {
- font: 1.4em Sadie Sans;
- color: black;
+ font: 1.8em Sadie Sans;
+ color: white;
  text-align: center;
  
 }
@@ -160,5 +150,5 @@ h3 {
  margin-top: 3em;
  margin-left: 3em;
  margin-right: 3em;
- font: 1em  Calibri Light;
+ font: 1em  Alcubierre;
 }
