@@ -17,17 +17,6 @@
  font-family: Calibri Light;
  src: url('Calibril.ttf');
  }
-
-@font-face {
- font-family: DFBiaoKaiShu;
- src: url('DFBK1B.TTF');
-}
-
-@font-face {
- font-family: DFGL1B;
- src: url('DFGL1B.TTF');
-}
-
  
 .mb {
  background-color: white;
@@ -35,16 +24,11 @@
  width: 100%;
 }
 
-body {
- margin: 0px;
-}
-
- #logo {
-
-  padding: 0px;
-  width: 100%;
-  margin: 0px;
-  object-fit: cover;
+.mb #logo {
+ float: left;
+ display: block;
+ height: 60px;
+ width: 120px;
 }
 
 .mb .menu {
@@ -65,14 +49,11 @@ body {
  margin-right: .5em;
  margin-bottom: .5em;
  line-height: 1.7em;
- font: 1.2em DFBiaoKaiShu;
+ font: 1.2em Hanzipen TC;
  color: black;
  text-align: center;
- text-decoration: none; 
-
+ text-decoration: none;
 }
-
- }
 
 .mb .icons {
  display: block;
