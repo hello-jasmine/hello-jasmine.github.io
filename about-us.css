@@ -90,65 +90,7 @@
 
 /*Three Blocks*/
 
-.block {
- display: inline-block; 
- margin-top: 0;
-}
-
-
-#middle-block {
- height: 700px;
- 
-
- 
- margin-left: 7em;
- margin-right: 7em;
- 
-}
-
-#logo-eat {
- width: 500px;
- display: block;
- margin-left: auto;
- margin-right: auto;
- margin-top: 0px;
- margin-bottom: 0px;
- padding: 0px;
-}
-
-#main {
- width: 8em;
- padding: 0;
- margin: 0;
- background-image: url('bobaz.jpg');
-}
-
-
-h3 {
- font: 1.8em Sadie Sans;
- color: white;
- text-align: center;
- 
-}
-
-#auth {
- margin: 2em;
-
-}
-
-#trad {
- margin: 2em;
- font-style: italic;
-}
-
-#tea {
- margin: 2em;
- font-weight: bold;
-}
-
-.para {
- margin-top: 3em;
- margin-left: 3em;
- margin-right: 3em;
- font: 1em  Alcubierre;
-}
+#logo-eat { width: 500px; display: block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px; padding: 0px;}
+#yo { width: 100%; padding: 0; margin: 0; }
+h3 { font: 2.8em Sadie Sans; color: white; text-align: center; }
+.para { margin-top: 2em; margin-left: 5em; margin-right: 5em; font: 1.5em  Alcubierre;}
