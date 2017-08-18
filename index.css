@@ -89,9 +89,11 @@ body {
 }
 
 #logo {
- width: 100%;
- display: block;
+ 
  padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
 }
 
 #motto {
