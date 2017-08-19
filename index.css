@@ -23,6 +23,11 @@
  src: url('wt071.ttf');
 }
 
+@font-face {
+ font-family: HanWangYanKai;
+ src: url('wt064.ttf');
+}
+
 .mb {
  background-color: white;
  height: 60px;
@@ -54,7 +59,7 @@
  margin-right: .5em;
  margin-bottom: .5em;
  line-height: 1.7em;
- font: 1.2em HanWangShinSuMedium;
+ font: 1.2em HanWangYanKai;
  color: black;
  text-align: center;
  text-decoration: none;
