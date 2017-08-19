@@ -1,0 +1,160 @@
+@font-face {
+ font-family: Alcubierre;
+ src: url('Alcubierre.otf');
+ }
+ 
+ @font-face {
+ font-family: Sadie Sans;
+ src: url('Sadie Sans.otf');
+}
+
+@font-face {
+ font-family: NexaRustHandmade-Extended;
+ src: url('NexaRustHandmade-Extended.otf');
+}
+
+@font-face {
+ font-family: Calibri Light;
+ src: url('Calibril.ttf');
+ }
+ 
+@font-face {
+ font-family: HanWangShinSuMedium;
+ src: url('wt071.ttf');
+}
+
+@font-face {
+ font-family: HanWangYanKai;
+ src: url('wt064.ttf');
+}
+
+.mb {
+ background-color: white;
+ height: 60px;
+ width: 100%;
+}
+
+.mb #logo {
+ float: left;
+ display: block;
+ height: 60px;
+ width: 120px;
+}
+
+.mb .menu {
+ float: left;
+ display: block;
+ padding: .5em;
+ line-height: 1.7em;
+ color: black;
+ text-align: center;
+ font: 1.2em HanWangShinSuMedium;
+ text-decoration: none;
+}
+
+.mb .chinese {
+ float: right;
+ display: block;
+ padding: .5em;
+ margin-right: .5em;
+ margin-bottom: .5em;
+ line-height: 1.7em;
+ font: 1.2em HanWangShinSuMedium;
+ color: black;
+ text-align: center;
+ text-decoration: none;
+}
+
+.mb .icons {
+ display: block;
+ float: right;
+ padding: 1em;
+ line-height: 1.7em;
+ margin-top: .5em;
+ color: black;
+ font-size: 1.2em;
+ background-color: white;
+}
+
+.mb .icons:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .menu:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+.mb .chinese:hover {
+ color: white;
+ background-color: black;
+ opacity: .7;
+}
+
+body {
+ margin: 0;
+}
+
+#logo {
+ 
+ padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+#motto {
+padding: 10px;
+width: 100%;
+background-color: white;
+z-index: 0;
+display: block;
+overflow: hidden;
+position: relative;
+
+}
+
+h2 {
+font: 3em Sadie Sans;
+margin: .25em;
+text-align: center;
+}
+
+#tea {
+font: 3em Sadie Sans;
+margin-right: 7em;
+float: right;
+}
+
+#ttea {
+font: 2.5em Hanzipen TC;
+margin-left: 4em;
+}
+
+#eats {
+font: 3em Sadie Sans;
+float: right;
+margin-right: 4em;
+}
+
+#flavor {
+font: 2.5em Hanzipen TC;
+margin-left: 8em;
+margin-bottom: 2em;
+}
+
+#box {width: 100%;height: 6em; background-color: black;}
+#copyright {text-align: center;color: white;font: .75em Alcubierre; margin-bottom: 0em;padding: 0em;}
+#address {text-align: center;color: white;font: 1em Alcubierre;padding-top: .5em; margin-bottom: 0em; }
+#social {
+margin-left: auto;
+margin-right: auto;
+width: 120px;
+margin-top: 1px;
+padding-top: 1px;
+}
+.icons { display: inline-block; text-align: center; padding: .5em; line-height: .1em; margin-top: .1em; color: white; font-size: 1.2em; background-color: black;}
+.icons:hover { color: #6AE6DF; }
