@@ -28,6 +28,11 @@
  src: url('wt064.ttf');
 }
 
+@font-face {
+ font-family: SimSun;
+ src: url('simsun.ttc');
+}
+
 .mb {
  background-color: white;
  height: 60px;
@@ -48,7 +53,7 @@
  line-height: 1.7em;
  color: black;
  text-align: center;
- font: 1.2em HanWangShinSuMedium;
+ font: 1.2em SimSun;
  text-decoration: none;
 }
 
@@ -59,7 +64,7 @@
  margin-right: .5em;
  margin-bottom: .5em;
  line-height: 1.7em;
- font: 1.2em HanWangShinSuMedium;
+ font: 1.2em SimSun;
  color: black;
  text-align: center;
  text-decoration: none;
