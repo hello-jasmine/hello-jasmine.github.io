@@ -18,6 +18,11 @@
  src: url('Calibril.ttf');
  }
  
+@font-face {
+ font-family: HanWangShinSuMedium;
+ src: url('wt071.ttf');
+}
+
 .mb {
  background-color: white;
  height: 60px;
@@ -49,7 +54,7 @@
  margin-right: .5em;
  margin-bottom: .5em;
  line-height: 1.7em;
- font: 1.2em Hanzipen TC;
+ font: 1.2em HanWangShinSuMedium;
  color: black;
  text-align: center;
  text-decoration: none;
