@@ -20,6 +20,10 @@
  font-family: Calibri Light;
  src: url('Calibril.ttf');
  }
+
+body {
+ margin: 0px;
+ }
  
 .mb {
  background-color: white;
