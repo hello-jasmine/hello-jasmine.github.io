@@ -190,7 +190,8 @@ padding-top: 0px;
  font: .9em Alcubierre;
  margin-top: 0;
 }
- 
+ .small-price {text-align: center; color: black; font: 1em Alcubierre; margin-top: 5px; margin-bottom: 5px;} 
+.big-price { text-align: center; color: black; font: 1em Alcubierre; margin-top: 2em; margin-bottom: 1em;
 
 #box {width: 100%;height: 6em; background-color: black;}
 #box #copyright {text-align: center;color: white;font: .75em Alcubierre; margin-bottom: 0em;padding: 0em;}
