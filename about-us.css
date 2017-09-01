@@ -95,13 +95,7 @@ body {
 }
 
 
-/*Three Blocks*/
-
-#logo-eat { width: 500px; display: block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px; padding: 0px;}
-#yo { width: 100%; padding: 0; margin: 0; }
-h3 { font: 2.8em Sadie Sans; color: white; text-align: center; }
-.para { margin-top: 2em; margin-left: 5em; margin-right: 5em; margin-bottom: 5em; font: 1.2em  Alcubierre; line-height: 1.5em;}
-#two-para { padding-top: 0px; margin-top: 1em; margin-left: 5em; margin-right: 5em; margin-bottom: 5em; font: 1.2em  Alcubierre; line-height: 1.5em;}
+#logo-eat { width: 500px; display: block; margin-left: auto; margin-right: auto; margin-top: 50px; margin-bottom: 20px; padding: 0px;}#yo { width: 100%; padding: 0; margin: 0; }h3 { font: 2.8em Sadie Sans; color: white; text-align: center; }.para { margin-top: 5em; margin-left: 5em; margin-right: 5em; margin-bottom: 2em; font: 1.2em  Alcubierre; line-height: 1.5em;} #two-para { padding-top: 0px; margin-top: 0em; margin-left: 5em; margin-right: 5em; margin-bottom: 5em; font: 1.2em  Alcubierre; line-height: 1.5em;}
 
 #box {width: 100%;height: 6em; background-color: black;}
 #copyright {text-align: center;color: white;font: .75em Alcubierre; margin-bottom: 0em;padding: 0em;}
