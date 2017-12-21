@@ -4,7 +4,8 @@
 .eatStreet {
   height: 100px;
   position: relative;
-  float: left;
+  left: 0px;
+  top: 30px;
   
 }
 body { margin-left: 0px; margin-right: 0px; margin-top: 0px; margin-bottom: 0px;}
