@@ -12,6 +12,9 @@
 .form {
  position: absolute;
  margin-top: 75px;
+ margin-left: auto;
+ margin-right: auto;
+ width: 90%;
  border: 3px solid #73AD21;
 }
 
