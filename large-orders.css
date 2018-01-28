@@ -10,6 +10,7 @@
 .mb .chinese:hover { color: white; background-color: black; opacity: .7;}body {margin: 0px; }
 
 .form {
+ display: block;
  position: absolute;
  margin-top: 75px;
  margin-left: 75px;
