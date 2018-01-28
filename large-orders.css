@@ -9,7 +9,7 @@
 .mb .menu:hover { color: white; background-color: black; opacity: .7;}
 .mb .chinese:hover { color: white; background-color: black; opacity: .7;}body {margin: 0px; }
 
-div .form {
+.form {
  position: relative;
     width: 400px;
     height: 200px;
