@@ -12,6 +12,8 @@
 div .form {
  display: block; 
  margin-top: 200px;
+ margin-right: 50px;
+ margin-left: 50px;
 }
 
 .heading {
