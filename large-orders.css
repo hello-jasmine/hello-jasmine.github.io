@@ -3,3 +3,13 @@
 div .form {
  display: block; 
 }
+
+h1 {
+ font-family: Sadie Sans; 
+ font-size: 3em;
+}
+
+p {
+ font-family: Alcubierre;
+ font-size: 1.5em;
+}
