@@ -1,92 +1,125 @@
 <!DOCTYPE html><html><head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="stylesheet" type="text/css" href="large-orders.css" media="screen" /></head><body><div class="mb" id="menu-bar">	<a class="menu" href="index.html">  <p class="box"> Home </p> </a>	 <a class="menu" href="about-us.html"> <p class="box"> About Us </p> </a> 	 <a class="menu" href="menu.html"> <p class="box"> Menu </p> </a>	 <a class="menu" href="location.html">  <p class="box"> Location </p> </a>	  <a class="menu" href="contact.html"> <p class="box"> Contact Us </p>  </a> 	     <a class="icons" href="https://www.facebook.com/Taiwan-Little-Eats-1940760822802866/"><i class="fa fa-facebook" aria-hidden="true"></i> </a>   	<a class="icons" href="https://www.yelp.com/biz/taiwan-little-eats-madison" > <i class="fa fa-yelp" aria-hidden="true"></i> </a>    		<a class="icons" href="https://www.instagram.com/taiwanlittleeats"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>	   		</div>	
 
     <div class="form">
-        <h1 class="heading"> Large Group Order Form </h1> 
-        <p class="descrip"> For orders of twenty or more Big Bites. </p>
-        <p class="descrip"> Please make your selections by 12 AM the night before to ensure timely preparation. </p>
+        <h1 class="heading"> Student Lunch Delivery </h1> 
+        <p class="descrip"> We deliver Big Bites and drinks to a central campus location (Parking Lot 114, outside Engineering Hall) every weekday at 11:30. Cash only. </p>
+        <p class="descrip"> The online system receives orders starting the day before delivery, from 3:00 PM, to the day of delivery at 10:30 AM.  </p>
+        <p class="descrip"> 我們平日11:30到12:10將送餐到UW校園工程大樓外面114停車場。平日接受訂單時間為早上10:30前止。只接受現金付費。</p>
+        
         
 <form name="large-order" method="POST" action="https://formspree.io/christinewelch2007@gmail.com">
 <p>
   <label>First Name: *</label>
-    <input type="text" name="first-name">
+    <input type="text" name="First Name, 前名:">
   </p>
   <p>
     <label>Last name: *</label>
-    <input type="text" name="last-name">
+    <input type="text" name="Last Name, 姓名:">
   </p>
   <p>
     <label>Email: *</label>
-    <input type="email" name="email">
+    <input type="email" name="Email">
   </p>
   <p>
     <label>Phone number: *</label>
-    <input type="tel" name="phone-number">
-  </p>
-<p> <label> Date, Time, and Place of Delivery: </label>
-    <input type="text" name="date-time">
+    <input type="tel" name="Phone Number, 電話號碼:">
   </p>
     
   <h2 class="menu"> Menu </h2>
   <p class="descrip"> The TLE Lunch Special includes a Big Bite rice bowl, and a 16oz iced brewed or milk tea can be added for $1.50. </p>
 
-    <h4 class="items"> Brewed Teas </h4>
+    <h4 class="items"> Brewed Teas, 24oz iced, $3.75 </h4>
   <p>
     <label>Assam Black Tea 阿薩姆紅茶 </label>
-    <input type="number" name="assam">
+    <input type="number" name="Assam Black Tea 阿薩姆紅茶">
     </p>
       <p>
     <label> Jasmine Green Tea 茉莉綠茶 </label>
-    <input type="number" name="jasmine">
+    <input type="number" name="Jasmine Green Tea 茉莉綠茶">
     </p>
       <p>
     <label>Roasted Oolong Tea 碳燒烏龍茶 </label>
-    <input type="number" name="oolong">
+    <input type="number" name="Roasted Oolong Tea 碳燒烏龍茶">
     </p>
       <p>
     <label>Pouchong Tea 高山青茶 </label>
-    <input type="number" name="pouchong">
+    <input type="number" name="Pouchong Tea 高山青茶">
     </p>
-    <h4 class="items"> Milk Teas </h4>
+    <h4 class="items"> Milk Teas, 24oz iced, $4.35 </h4>
       <p>
     <label>Taiwanese Style Milk Tea 原味奶茶 </label>
-    <input type="number" name='taiwanese'>
+    <input type="number" name='Taiwanese Style Milk Tea 原味奶茶'>
     </p>
       <p>
     <label>Jasmine Green Milk Tea 茉莉奶綠 </label>
-    <input type="number" name="jasmine-milk">
+    <input type="number" name="Jasmine Green Milk Tea 茉莉奶綠">
     </p>
       <p>
     <label> Roasted Oolong Milk Tea 碳燒烏龍奶茶 </label>
-    <input type="number" name="oolong-milk">
+    <input type="number" name="Roasted Oolong Milk Tea 碳燒烏龍奶茶">
     </p>
       <p>
-    <label>Pouchong Milk Tea </label>
-    <input type="number" name="pouchong-milk">
+    <label>Pouchong Milk Tea 高山青奶茶 </label>
+    <input type="number" name="Pouchong Milk Tea 高山青奶茶">
     </p>
+    
+    <h4 class="items"> Fruit Teas, 24oz iced, $5.15 </h4>
+    <p> Made with Jasmine Green Tea and Coconut Jellies. </p>
+     <p>
+    <label> Lychee Iced Tea 荔枝冰茶 </label>
+    <input type="number" name="Lychee Iced Tea 荔枝冰茶">
+    </p>
+     <p>
+    <label> Mango Iced Tea 芒果冰茶 </label>
+    <input type="number" name="Mango Iced Tea 芒果冰茶">
+    </p>
+     <p>
+    <label> Grapefruit Iced Tea 葡萄柚冰茶 </label>
+    <input type="number" name="Grapefruit Iced Tea 葡萄柚冰茶">
+    </p>
+     <p>
+    <label> Passion Fruit Iced Tea 百香果冰茶 </label>
+    <input type="number" name="Passion Fruit Iced Tea 百香果冰茶">
+    </p>
+    <p>
+    <label> Strawberry Iced Tea 草莓冰茶 </label>
+    <input type="number" name="Strawberry Iced Tea 草莓冰茶">
+    </p>
+    
+    
     
     <h4 class="items"> Big Bites </h4> 
       <p>
     <label>Fried Chicken Cutlet over Rice 炸雞排飯 9.5 </label>
-    <input type="number" name="chicken">
+    <input type="number" name="Fried Chicken Cutlet over Rice 炸雞排飯">
     </p>
       <p>
     <label>Fried Pork Rib over Rice 炸排骨飯 9.5 </label>
-    <input type="number" name="pork">
+    <input type="number" name="Fried Pork Rib over Rice 炸排骨飯">
     </p>
       <p>
-    <label>Popcorn Chicken over Rice 鹹酥雞飯 9 </label>
-    <input type="number" name="popcorn">
+    <label>Popcorn Chicken over Rice 鹹酥雞飯 9.5 </label>
+    <input type="number" name="Popcorn Chicken over Rice 鹹酥雞飯">
     </p>
       <p>
     <label>Black Pepper Beef over Rice 黑胡椒牛肉飯 12 </label>
-    <input type="number" name="beef" value="">
+    <input type="number" name="Black Pepper Beef over Rice 黑胡椒牛肉飯">
     </p>
       <p>
     <label>Vegetarian Tofu over Rice 豆腐飯 10 </label>
-    <input type="number" name="tofu">
+    <input type="number" name="Vegetarian Tofu over Rice 豆腐飯">
+    </p>
+      <p>
+    <label>Tainan Braised Pork over Rice 肉燥飯 8 </label>
+    <input type="number" name="Tainan Braised Pork over Rice 肉燥飯">
+    </p>
+      <p>
+    <label>Vegetarian Cold Noodles 涼麵 9 </label>
+    <input type="number" name="Vegetarian Cold Noodles 涼麵">
     </p>
     
-    <p class="descrip"> Thanks so much for your order! We will contact you by email with your confirmation number. </p> 
+    
+    <p class="descrip"> Thanks so much for your order! </p> 
     
     <p class="descrip">
     <input type="submit" value="Submit">
