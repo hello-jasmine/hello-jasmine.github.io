@@ -9,6 +9,9 @@
 .mb .menu:hover { color: white; background-color: black; opacity: .7;}
 .mb .chinese:hover { color: white; background-color: black; opacity: .7;}body {margin: 0px; }
 
+iframe {
+ margin: auto;
+}
 .form {
  margin-top: 75px;
  margin-left: auto;
