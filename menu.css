@@ -14,7 +14,7 @@ body { margin: 0px; } .navbar {display: inline-block; text-align: center; border
   
   
 }
-#yo { display: block; width: 50%; margin-left: auto; margin-right: auto; margin-top: 100px; }
+#yo { display: block; width: 80%; margin-left: auto; margin-right: auto; margin-top: 100px; }
 
 #caf {margin-top: 0; margin-bottom: 0;padding-top: 0; padding-bottom: 0; color: black; font: .2em Alcubierre;}#fru { margin-top: 0;padding-top: 0;color: black; font: .2em Alcubierre;}
 h3 { display: block; font: 6em Sadie Sans; color: black; text-align: center; margin-top: 30px;margin-bottom: 30px;padding-top: 0px;}.teas { text-align: center; font: 1.5em Alcubierre; color: black; margin-bottom: .1em;}.desc { text-align: center; font-style: italic; color: black; font: .9em Alcubierre; margin-top: 0;} .small-price {text-align: center; color: black; font: 1em Alcubierre; margin-top: 5px; margin-bottom: 5px; opacity: .8;} .big-price { text-align: center; color: black; font: 1em Alcubierre; margin-top: 2em; margin-bottom: 1em; opacity: .8;}
