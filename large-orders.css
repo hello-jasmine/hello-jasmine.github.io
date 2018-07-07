@@ -10,6 +10,9 @@
 .mb .menu:hover { color: white; background-color: black; opacity: .7;}
 .mb .chinese:hover { color: white; background-color: black; opacity: .7;}body {margin: 0px; }
 
+h2 { font-family: AvenirNextLTPro-Medium; font-size: 2em; margin-top: 100px;}
+
+p { font-family: AvenirNextLTPro-Regular; font-size: 1em; 
 iframe {
  margin: auto;
 }
