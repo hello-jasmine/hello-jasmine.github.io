@@ -12,7 +12,8 @@
 
 h2 { font-family: AvenirNextLTPro-Medium; font-size: 2em; margin-top: 100px; text-align: center;}
 
-p { font-family: AvenirNextLTPro-Regular; font-size: 1em; 
+p { font-family: AvenirNextLTPro-Regular; font-size: 1em; text-align: center; }
+
 iframe {
  margin: auto;
 }
