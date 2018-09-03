@@ -3,7 +3,7 @@
 
 .mb { background-color: white; height: 27px; width: 100%; padding: 0px; display: block; }
 .mb #logo { float: left; display: block; height: 0px; width: 120px;}
-.mb .menu {float: left; display: block; padding-left: .5em; padding-right: .5em; padding-top: .7em; padding-bottom: .7em; line-height: .5em; color: black; text-align: center; font: 1em AvenirNextLTPro-Regular; text-decoration: none;}
+.mb .menu {float: left; display: block; padding-left: .5em; padding-right: .5em; padding-top: .7em; padding-bottom: .7em; line-height: .5em; color: black; text-align: center; font: .5em AvenirNextLTPro-Regular; text-decoration: none;}
 .mb .chinese { float: right; display: block; padding-top: .6em; padding-bottom: .6em; padding-right: .7em; padding-left: .7em; line-height: 1.7em; font: 1.2em HanziPen SC; color: black; text-align: center; text-decoration: none;}
 .mb .icons { margin: 0px; display: block; float: right; padding-top: 1.7em; padding-bottom: 1.4em; padding-left: 1em; padding-right: 1em; line-height: 1.5em; color: black; font-size: 1.2em; background-color: white;}
 .mb .icons:hover { color: white; background-color: black; opacity: .7;}
